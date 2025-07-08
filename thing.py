@@ -18,7 +18,7 @@ Analyze the following code snippet and grade its performance impact as one of th
 - Medium: Some performance inefficiencies but not critical.
 - Minimal: Little to no performance concerns.
 Please also consider the context of the code and its intended use case. If the code looks like it would rarely be run, it may be categorized as Minimal.
-If the code is negligible, and you wish to cut the response short, you can respond with "FULLSTOP" and nothing else.
+If the code is negligible, and you wish to cut the response short, you can respond with "FULLSTOP" and nothing else. This will completely discard your response.
 
 If the category is anything other than "FULLSTOP", please provide a brief explanation of the performance concerns.
 
